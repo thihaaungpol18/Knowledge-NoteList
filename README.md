@@ -31,3 +31,6 @@ https://codeshare.io/codes
           </head>
           
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+<https://www.markdownguide.org>
+<fake@example.com>
