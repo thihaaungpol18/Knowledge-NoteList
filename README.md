@@ -49,3 +49,11 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
   "age": 25
 }
 ```
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
