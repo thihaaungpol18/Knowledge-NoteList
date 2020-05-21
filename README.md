@@ -36,3 +36,8 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 <fake@example.com>
 
 ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
