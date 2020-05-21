@@ -67,3 +67,7 @@ Second Term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
