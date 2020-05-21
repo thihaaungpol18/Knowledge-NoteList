@@ -41,3 +41,11 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
