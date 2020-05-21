@@ -1,9 +1,9 @@
 # Knowledge-NoteList
 
-1.Markdown  (https://www.markdownguide.org/)
+1. *Markdown*  (https://www.markdownguide.org/)
 
 ---
-## Design 
+##  **Design** 
 1. Material Palette (https://www.materialpalette.com/icons)
 2. https://www.xdguru.com/adobe-xd-course/
 ---
