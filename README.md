@@ -34,3 +34,5 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 <https://www.markdownguide.org>
 <fake@example.com>
+
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
