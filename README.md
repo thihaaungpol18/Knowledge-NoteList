@@ -19,3 +19,6 @@
 ## Code share
 https://codeshare.io/codes
 
+## Api
+1. https://jsonplaceholder.typicode.com/
+
