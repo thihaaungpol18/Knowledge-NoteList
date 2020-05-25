@@ -23,3 +23,6 @@ https://codeshare.io/codes
 1. https://jsonplaceholder.typicode.com/
 2. Weather APi (https://www.metaweather.com/api/location/search/?query=london)
 
+## Flutter websites
+(Code magic) https://codemagic.io/start/
+
