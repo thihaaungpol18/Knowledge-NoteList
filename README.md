@@ -29,7 +29,7 @@ https://codeshare.io/codes
 2. Weather APi (https://www.metaweather.com/api/location/search/?query=london)
 
 ## Flutter websites
-(Code magic) https://codemagic.io/start/
-(Flutter school) https://developer.school/tag/flutter/ 
-(Flutter online course) https://www.appbrewery.co/courses/
+1. (Code magic) https://codemagic.io/start/
+2. (Flutter school) https://developer.school/tag/flutter/ 
+3. (Flutter online course) https://www.appbrewery.co/courses/
 
