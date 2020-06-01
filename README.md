@@ -31,4 +31,5 @@ https://codeshare.io/codes
 ## Flutter websites
 (Code magic) https://codemagic.io/start/
 (Flutter school) https://developer.school/tag/flutter/ 
+(Flutter online course) https://www.appbrewery.co/courses/
 
