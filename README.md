@@ -1,11 +1,16 @@
 # Knowledge-NoteList
 
 1. *Markdown*  (https://www.markdownguide.org/)
+-------
+
+# Pravicy
+1. Pravicy Generator (https://app-privacy-policy-generator.firebaseapp.com/)
 
 ---
 ##  **Design** 
 1. Material Palette (https://www.materialpalette.com/icons)
 2. https://www.xdguru.com/adobe-xd-course/
+3. App Icon Generator (https://appicon.co/)
 ---
 
 ## Short Url 
