@@ -27,9 +27,15 @@ https://codeshare.io/codes
 ## Api
 1. https://jsonplaceholder.typicode.com/
 2. Weather APi (https://www.metaweather.com/api/location/search/?query=london)
+----
 
 ## Flutter websites
 1. (Code magic) https://codemagic.io/start/
 2. (Flutter school) https://developer.school/tag/flutter/ 
 3. (Flutter online course) https://www.appbrewery.co/courses/
+-------
 
+## Web Scrapping & Crawling
+1. https://www.import.io/
+2. https://parsehub.com/register
+3. https://try.jsoup.org/
