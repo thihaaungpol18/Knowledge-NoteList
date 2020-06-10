@@ -9,10 +9,11 @@
 ---
 ##  **Design** 
 1. Material Palette (https://www.materialpalette.com/icons)
-2. https://www.xdguru.com/adobe-xd-course/
+2. Adobe XD course(https://www.xdguru.com/adobe-xd-course/)
 3. App Icon Generator (https://appicon.co/)
 4. Icon flow (https://iconsflow.com/)
 5. Animation Video Creator (https://www.animaker.com/)
+6. Icon8.com  (https://icons8.com/app)
 ---
 
 ## Short Url 
