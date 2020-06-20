@@ -29,8 +29,10 @@ https://codeshare.io/codes
 
 ---
 
-## Tool
+## Tool (App Install Marketing)
 1. MockupFrames (www.mockupframes.com)
+2. Rotato (https://www.rotato.xyz/)
+----
 
 ## Api
 1. https://jsonplaceholder.typicode.com/
